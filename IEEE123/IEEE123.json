@@ -133,14 +133,14 @@
             ],
             "node_id": "sourcebus",
             "max_real_phase": [
-                1e+99,
-                1e+99,
-                1e+99
+                1.0e99,
+                1.0e99,
+                1.0e99
             ],
             "max_reactive_phase": [
-                1e+99,
-                1e+99,
-                1e+99
+                1.0e99,
+                1.0e99,
+                1.0e99
             ]
         },
         {
@@ -985,7 +985,7 @@
                 true
             ],
             "node1_id": "149",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1032,7 +1032,7 @@
                 false
             ],
             "node1_id": "1",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1079,7 +1079,7 @@
                 true
             ],
             "node1_id": "1",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1126,7 +1126,7 @@
                 true
             ],
             "node1_id": "1",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1173,7 +1173,7 @@
                 true
             ],
             "node1_id": "3",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1220,7 +1220,7 @@
                 true
             ],
             "node1_id": "3",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1267,7 +1267,7 @@
                 true
             ],
             "node1_id": "5",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1314,7 +1314,7 @@
                 true
             ],
             "node1_id": "7",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1361,7 +1361,7 @@
                 false
             ],
             "node1_id": "8",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1408,7 +1408,7 @@
                 false
             ],
             "node1_id": "8",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1455,7 +1455,7 @@
                 true
             ],
             "node1_id": "8",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1502,7 +1502,7 @@
                 false
             ],
             "node1_id": "9",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1549,7 +1549,7 @@
                 true
             ],
             "node1_id": "13",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1596,7 +1596,7 @@
                 true
             ],
             "node1_id": "13",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1643,7 +1643,7 @@
                 false
             ],
             "node1_id": "14",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1690,7 +1690,7 @@
                 false
             ],
             "node1_id": "14",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1737,7 +1737,7 @@
                 true
             ],
             "node1_id": "15",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1784,7 +1784,7 @@
                 true
             ],
             "node1_id": "15",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1831,7 +1831,7 @@
                 false
             ],
             "node1_id": "18",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1878,7 +1878,7 @@
                 true
             ],
             "node1_id": "18",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1925,7 +1925,7 @@
                 false
             ],
             "node1_id": "19",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -1972,7 +1972,7 @@
                 false
             ],
             "node1_id": "21",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2019,7 +2019,7 @@
                 true
             ],
             "node1_id": "21",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2066,7 +2066,7 @@
                 true
             ],
             "node1_id": "23",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2113,7 +2113,7 @@
                 true
             ],
             "node1_id": "23",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2160,7 +2160,7 @@
                 true
             ],
             "node1_id": "25",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2207,7 +2207,7 @@
                 true
             ],
             "node1_id": "25",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2254,7 +2254,7 @@
                 true
             ],
             "node1_id": "26",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2301,7 +2301,7 @@
                 true
             ],
             "node1_id": "26",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2348,7 +2348,7 @@
                 false
             ],
             "node1_id": "27",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2395,7 +2395,7 @@
                 true
             ],
             "node1_id": "28",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2442,7 +2442,7 @@
                 true
             ],
             "node1_id": "29",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2489,7 +2489,7 @@
                 true
             ],
             "node1_id": "30",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2536,7 +2536,7 @@
                 true
             ],
             "node1_id": "31",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2583,7 +2583,7 @@
                 true
             ],
             "node1_id": "34",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2630,7 +2630,7 @@
                 false
             ],
             "node1_id": "35",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2677,7 +2677,7 @@
                 true
             ],
             "node1_id": "35",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2724,7 +2724,7 @@
                 false
             ],
             "node1_id": "36",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2771,7 +2771,7 @@
                 false
             ],
             "node1_id": "36",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2818,7 +2818,7 @@
                 false
             ],
             "node1_id": "38",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2865,7 +2865,7 @@
                 true
             ],
             "node1_id": "40",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2912,7 +2912,7 @@
                 true
             ],
             "node1_id": "40",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -2959,7 +2959,7 @@
                 false
             ],
             "node1_id": "42",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3006,7 +3006,7 @@
                 true
             ],
             "node1_id": "42",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3053,7 +3053,7 @@
                 false
             ],
             "node1_id": "44",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3100,7 +3100,7 @@
                 true
             ],
             "node1_id": "44",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3147,7 +3147,7 @@
                 false
             ],
             "node1_id": "45",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3194,7 +3194,7 @@
                 true
             ],
             "node1_id": "47",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3241,7 +3241,7 @@
                 true
             ],
             "node1_id": "47",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3288,7 +3288,7 @@
                 true
             ],
             "node1_id": "49",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3335,7 +3335,7 @@
                 true
             ],
             "node1_id": "50",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3382,7 +3382,7 @@
                 true
             ],
             "node1_id": "51",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3429,7 +3429,7 @@
                 true
             ],
             "node1_id": "52",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3476,7 +3476,7 @@
                 true
             ],
             "node1_id": "53",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3523,7 +3523,7 @@
                 true
             ],
             "node1_id": "54",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3570,7 +3570,7 @@
                 true
             ],
             "node1_id": "54",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3617,7 +3617,7 @@
                 true
             ],
             "node1_id": "55",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3664,7 +3664,7 @@
                 false
             ],
             "node1_id": "57",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3711,7 +3711,7 @@
                 true
             ],
             "node1_id": "57",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3758,7 +3758,7 @@
                 false
             ],
             "node1_id": "58",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3805,7 +3805,7 @@
                 true
             ],
             "node1_id": "60",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3852,7 +3852,7 @@
                 true
             ],
             "node1_id": "60",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3899,7 +3899,7 @@
                 true
             ],
             "node1_id": "62",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3946,7 +3946,7 @@
                 true
             ],
             "node1_id": "63",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -3993,7 +3993,7 @@
                 true
             ],
             "node1_id": "64",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4040,7 +4040,7 @@
                 true
             ],
             "node1_id": "65",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4087,7 +4087,7 @@
                 false
             ],
             "node1_id": "67",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4134,7 +4134,7 @@
                 true
             ],
             "node1_id": "67",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4181,7 +4181,7 @@
                 true
             ],
             "node1_id": "67",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4228,7 +4228,7 @@
                 false
             ],
             "node1_id": "68",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4275,7 +4275,7 @@
                 false
             ],
             "node1_id": "69",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4322,7 +4322,7 @@
                 false
             ],
             "node1_id": "70",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4369,7 +4369,7 @@
                 true
             ],
             "node1_id": "72",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4416,7 +4416,7 @@
                 true
             ],
             "node1_id": "72",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4463,7 +4463,7 @@
                 true
             ],
             "node1_id": "73",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4510,7 +4510,7 @@
                 true
             ],
             "node1_id": "74",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4557,7 +4557,7 @@
                 true
             ],
             "node1_id": "76",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4604,7 +4604,7 @@
                 true
             ],
             "node1_id": "76",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4651,7 +4651,7 @@
                 true
             ],
             "node1_id": "77",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4698,7 +4698,7 @@
                 true
             ],
             "node1_id": "78",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4745,7 +4745,7 @@
                 true
             ],
             "node1_id": "78",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4792,7 +4792,7 @@
                 true
             ],
             "node1_id": "80",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4839,7 +4839,7 @@
                 true
             ],
             "node1_id": "81",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4886,7 +4886,7 @@
                 true
             ],
             "node1_id": "81",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4933,7 +4933,7 @@
                 true
             ],
             "node1_id": "82",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -4980,7 +4980,7 @@
                 true
             ],
             "node1_id": "84",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5027,7 +5027,7 @@
                 true
             ],
             "node1_id": "86",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5074,7 +5074,7 @@
                 false
             ],
             "node1_id": "87",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5121,7 +5121,7 @@
                 true
             ],
             "node1_id": "87",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5168,7 +5168,7 @@
                 false
             ],
             "node1_id": "89",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5215,7 +5215,7 @@
                 true
             ],
             "node1_id": "89",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5262,7 +5262,7 @@
                 true
             ],
             "node1_id": "91",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5309,7 +5309,7 @@
                 true
             ],
             "node1_id": "91",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5356,7 +5356,7 @@
                 false
             ],
             "node1_id": "93",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5403,7 +5403,7 @@
                 true
             ],
             "node1_id": "93",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5450,7 +5450,7 @@
                 false
             ],
             "node1_id": "95",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5497,7 +5497,7 @@
                 true
             ],
             "node1_id": "97",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5544,7 +5544,7 @@
                 true
             ],
             "node1_id": "98",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5591,7 +5591,7 @@
                 true
             ],
             "node1_id": "99",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5638,7 +5638,7 @@
                 true
             ],
             "node1_id": "100",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5685,7 +5685,7 @@
                 true
             ],
             "node1_id": "197",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5732,7 +5732,7 @@
                 true
             ],
             "node1_id": "101",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5779,7 +5779,7 @@
                 true
             ],
             "node1_id": "101",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5826,7 +5826,7 @@
                 true
             ],
             "node1_id": "102",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5873,7 +5873,7 @@
                 true
             ],
             "node1_id": "103",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5920,7 +5920,7 @@
                 false
             ],
             "node1_id": "105",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -5967,7 +5967,7 @@
                 true
             ],
             "node1_id": "105",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6014,7 +6014,7 @@
                 false
             ],
             "node1_id": "106",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6061,7 +6061,7 @@
                 false
             ],
             "node1_id": "108",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6108,7 +6108,7 @@
                 true
             ],
             "node1_id": "108",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6155,7 +6155,7 @@
                 false
             ],
             "node1_id": "109",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6202,7 +6202,7 @@
                 false
             ],
             "node1_id": "110",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6249,7 +6249,7 @@
                 false
             ],
             "node1_id": "110",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6296,7 +6296,7 @@
                 false
             ],
             "node1_id": "112",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6343,7 +6343,7 @@
                 false
             ],
             "node1_id": "113",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6390,7 +6390,7 @@
                 true
             ],
             "node1_id": "135",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6437,7 +6437,7 @@
                 true
             ],
             "node1_id": "152",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": false,
@@ -6484,7 +6484,7 @@
                 true
             ],
             "node1_id": "160",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": true,
@@ -6531,7 +6531,7 @@
                 true
             ],
             "node1_id": "sourcebus",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": true,
@@ -6578,7 +6578,7 @@
                 true
             ],
             "node1_id": "13",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": true,
@@ -6625,7 +6625,7 @@
                 true
             ],
             "node1_id": "18",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": true,
@@ -6672,7 +6672,7 @@
                 true
             ],
             "node1_id": "60",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": true,
@@ -6719,7 +6719,7 @@
                 true
             ],
             "node1_id": "97",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": true,
@@ -6766,7 +6766,7 @@
                 true
             ],
             "node1_id": "61",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": true,
@@ -6813,7 +6813,7 @@
                 true
             ],
             "node1_id": "151",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         },
         {
             "has_switch": true,
@@ -6860,7 +6860,7 @@
                 false
             ],
             "node1_id": "54",
-            "capacity": 0.1665433468816228
+            "capacity": 0.24981502032243422
         }
     ],
     "loads": [
